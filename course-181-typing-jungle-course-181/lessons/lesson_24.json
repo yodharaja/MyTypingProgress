@@ -1,0 +1,56 @@
+{
+  "course_id": 181,
+  "course_name": "Typing Jungle (Course 181)",
+  "lesson_id": 24,
+  "lesson_number": 24,
+  "lesson_title": "Symbols & Punctuation",
+  "status": "completed",
+  "stars": 4,
+  "accuracy_percent": 96,
+  "wpm": 55,
+  "score": 1550,
+  "time_spent_seconds": 47.1,
+  "time_spent_formatted": "47 secs",
+  "total_time_spent_seconds": 47.1,
+  "total_time_spent_formatted": "47 secs",
+  "attempts": 3,
+  "perfect_score": false,
+  "last_updated": "2026-10-18T10:12:50.988Z",
+  "best_attempt": {
+    "attempt_number": 1,
+    "wpm": 55,
+    "accuracy_percent": 96,
+    "score": 1550,
+    "stars": 4,
+    "time_spent_seconds": 47.1,
+    "time_spent_formatted": "47 secs",
+    "completed_at": "2026-10-18T10:12:50.988Z"
+  },
+  "latest_attempt": {
+    "attempt_number": 1,
+    "wpm": 55,
+    "accuracy_percent": 96,
+    "score": 1550,
+    "stars": 4,
+    "time_spent_seconds": 47.1,
+    "time_spent_formatted": "47 secs",
+    "completed_at": "2026-10-18T10:12:50.988Z"
+  },
+  "attempts_history": [
+    {
+      "attempt_number": 1,
+      "wpm": 55,
+      "accuracy_percent": 96,
+      "score": 1550,
+      "stars": 4,
+      "time_spent_seconds": 47.1,
+      "time_spent_formatted": "47 secs",
+      "completed_at": "2026-10-18T10:12:50.988Z"
+    }
+  ],
+  "raw_metadata": {
+    "is_test": false,
+    "is_game": false,
+    "keyboard": "en,us"
+  }
+}

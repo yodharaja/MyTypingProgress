@@ -1,0 +1,56 @@
+{
+  "course_id": 181,
+  "course_name": "Typing Jungle (Course 181)",
+  "lesson_id": 20,
+  "lesson_number": 20,
+  "lesson_title": "Speed Building 1",
+  "status": "completed",
+  "stars": 4,
+  "accuracy_percent": 97,
+  "wpm": 54,
+  "score": 1540,
+  "time_spent_seconds": 70.7,
+  "time_spent_formatted": "1 min 10 secs",
+  "total_time_spent_seconds": 70.7,
+  "total_time_spent_formatted": "1 min 10 secs",
+  "attempts": 1,
+  "perfect_score": false,
+  "last_updated": "2026-10-17T18:12:50.988Z",
+  "best_attempt": {
+    "attempt_number": 1,
+    "wpm": 54,
+    "accuracy_percent": 97,
+    "score": 1540,
+    "stars": 4,
+    "time_spent_seconds": 70.7,
+    "time_spent_formatted": "1 min 10 secs",
+    "completed_at": "2026-10-17T18:12:50.988Z"
+  },
+  "latest_attempt": {
+    "attempt_number": 1,
+    "wpm": 54,
+    "accuracy_percent": 97,
+    "score": 1540,
+    "stars": 4,
+    "time_spent_seconds": 70.7,
+    "time_spent_formatted": "1 min 10 secs",
+    "completed_at": "2026-10-17T18:12:50.988Z"
+  },
+  "attempts_history": [
+    {
+      "attempt_number": 1,
+      "wpm": 54,
+      "accuracy_percent": 97,
+      "score": 1540,
+      "stars": 4,
+      "time_spent_seconds": 70.7,
+      "time_spent_formatted": "1 min 10 secs",
+      "completed_at": "2026-10-17T18:12:50.988Z"
+    }
+  ],
+  "raw_metadata": {
+    "is_test": true,
+    "is_game": false,
+    "keyboard": "en,us"
+  }
+}

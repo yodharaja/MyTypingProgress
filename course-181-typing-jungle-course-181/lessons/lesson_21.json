@@ -1,0 +1,56 @@
+{
+  "course_id": 181,
+  "course_name": "Typing Jungle (Course 181)",
+  "lesson_id": 21,
+  "lesson_number": 21,
+  "lesson_title": "Numbers Row - 1, 2, 3",
+  "status": "completed",
+  "stars": 4,
+  "accuracy_percent": 97,
+  "wpm": 58,
+  "score": 1580,
+  "time_spent_seconds": 63.2,
+  "time_spent_formatted": "1 min 3 secs",
+  "total_time_spent_seconds": 63.2,
+  "total_time_spent_formatted": "1 min 3 secs",
+  "attempts": 3,
+  "perfect_score": false,
+  "last_updated": "2026-10-17T22:12:50.988Z",
+  "best_attempt": {
+    "attempt_number": 1,
+    "wpm": 58,
+    "accuracy_percent": 97,
+    "score": 1580,
+    "stars": 4,
+    "time_spent_seconds": 63.2,
+    "time_spent_formatted": "1 min 3 secs",
+    "completed_at": "2026-10-17T22:12:50.988Z"
+  },
+  "latest_attempt": {
+    "attempt_number": 1,
+    "wpm": 58,
+    "accuracy_percent": 97,
+    "score": 1580,
+    "stars": 4,
+    "time_spent_seconds": 63.2,
+    "time_spent_formatted": "1 min 3 secs",
+    "completed_at": "2026-10-17T22:12:50.988Z"
+  },
+  "attempts_history": [
+    {
+      "attempt_number": 1,
+      "wpm": 58,
+      "accuracy_percent": 97,
+      "score": 1580,
+      "stars": 4,
+      "time_spent_seconds": 63.2,
+      "time_spent_formatted": "1 min 3 secs",
+      "completed_at": "2026-10-17T22:12:50.988Z"
+    }
+  ],
+  "raw_metadata": {
+    "is_test": false,
+    "is_game": false,
+    "keyboard": "en,us"
+  }
+}

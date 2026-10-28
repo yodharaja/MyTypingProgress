@@ -1,0 +1,56 @@
+{
+  "course_id": 181,
+  "course_name": "Typing Jungle (Course 181)",
+  "lesson_id": 2,
+  "lesson_number": 2,
+  "lesson_title": "Space Key",
+  "status": "completed",
+  "stars": 4,
+  "accuracy_percent": 97,
+  "wpm": 64,
+  "score": 1640,
+  "time_spent_seconds": 35.3,
+  "time_spent_formatted": "35 secs",
+  "total_time_spent_seconds": 35.3,
+  "total_time_spent_formatted": "35 secs",
+  "attempts": 3,
+  "perfect_score": false,
+  "last_updated": "2026-10-14T18:12:50.988Z",
+  "best_attempt": {
+    "attempt_number": 1,
+    "wpm": 64,
+    "accuracy_percent": 97,
+    "score": 1640,
+    "stars": 4,
+    "time_spent_seconds": 35.3,
+    "time_spent_formatted": "35 secs",
+    "completed_at": "2026-10-14T18:12:50.988Z"
+  },
+  "latest_attempt": {
+    "attempt_number": 1,
+    "wpm": 64,
+    "accuracy_percent": 97,
+    "score": 1640,
+    "stars": 4,
+    "time_spent_seconds": 35.3,
+    "time_spent_formatted": "35 secs",
+    "completed_at": "2026-10-14T18:12:50.988Z"
+  },
+  "attempts_history": [
+    {
+      "attempt_number": 1,
+      "wpm": 64,
+      "accuracy_percent": 97,
+      "score": 1640,
+      "stars": 4,
+      "time_spent_seconds": 35.3,
+      "time_spent_formatted": "35 secs",
+      "completed_at": "2026-10-14T18:12:50.988Z"
+    }
+  ],
+  "raw_metadata": {
+    "is_test": false,
+    "is_game": false,
+    "keyboard": "en,us"
+  }
+}
