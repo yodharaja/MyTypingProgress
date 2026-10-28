@@ -9,13 +9,13 @@
   "accuracy_percent": 100,
   "wpm": 0,
   "score": 41170,
-  "time_spent_seconds": 4258,
-  "time_spent_formatted": "1 hr 10 mins 58 secs",
-  "total_time_spent_seconds": 12743,
-  "total_time_spent_formatted": "3 hrs 32 mins 23 secs",
-  "attempts": 3,
+  "time_spent_seconds": 4311,
+  "time_spent_formatted": "1 hr 11 mins 51 secs",
+  "total_time_spent_seconds": 29903,
+  "total_time_spent_formatted": "8 hrs 18 mins 23 secs",
+  "attempts": 7,
   "perfect_score": false,
-  "last_updated": "2026-10-28T15:07:12.595Z",
+  "last_updated": "2026-10-28T15:09:02.816Z",
   "best_attempt": {
     "accuracy_percent": 100,
     "attempt_number": 1,
@@ -27,14 +27,14 @@
     "wpm": 0
   },
   "latest_attempt": {
-    "attempt_number": 3,
+    "attempt_number": 7,
     "wpm": 0,
     "accuracy_percent": 100,
     "score": 41170,
     "stars": 129,
-    "time_spent_seconds": 4258,
-    "time_spent_formatted": "1 hr 10 mins 58 secs",
-    "completed_at": "2026-10-28T15:07:12.595Z"
+    "time_spent_seconds": 4311,
+    "time_spent_formatted": "1 hr 11 mins 51 secs",
+    "completed_at": "2026-10-28T15:09:02.816Z"
   },
   "attempts_history": [
     {
@@ -58,14 +58,54 @@
       "wpm": 0
     },
     {
+      "accuracy_percent": 100,
       "attempt_number": 3,
+      "completed_at": "2026-10-28T15:07:12.595Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 10 mins 58 secs",
+      "time_spent_seconds": 4258,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 4,
+      "completed_at": "2026-10-28T15:07:26.977Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 11 mins 10 secs",
+      "time_spent_seconds": 4270,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 5,
+      "completed_at": "2026-10-28T15:07:45.191Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 11 mins 23 secs",
+      "time_spent_seconds": 4283,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 6,
+      "completed_at": "2026-10-28T15:08:03.325Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 11 mins 36 secs",
+      "time_spent_seconds": 4296,
+      "wpm": 0
+    },
+    {
+      "attempt_number": 7,
       "wpm": 0,
       "accuracy_percent": 100,
       "score": 41170,
       "stars": 129,
-      "time_spent_seconds": 4258,
-      "time_spent_formatted": "1 hr 10 mins 58 secs",
-      "completed_at": "2026-10-28T15:07:12.595Z"
+      "time_spent_seconds": 4311,
+      "time_spent_formatted": "1 hr 11 mins 51 secs",
+      "completed_at": "2026-10-28T15:09:02.816Z"
     }
   ],
   "raw_metadata": {}
