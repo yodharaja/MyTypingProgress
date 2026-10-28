@@ -8,44 +8,54 @@
   "stars": 129,
   "accuracy_percent": 100,
   "wpm": 0,
-  "score": 40919,
-  "time_spent_seconds": 3841,
-  "time_spent_formatted": "1 hr 4 mins 1 sec",
-  "total_time_spent_seconds": 3841,
-  "total_time_spent_formatted": "1 hr 4 mins 1 sec",
-  "attempts": 1,
+  "score": 41132,
+  "time_spent_seconds": 3854,
+  "time_spent_formatted": "1 hr 4 mins 14 secs",
+  "total_time_spent_seconds": 7695,
+  "total_time_spent_formatted": "2 hrs 8 mins 15 secs",
+  "attempts": 2,
   "perfect_score": false,
-  "last_updated": "2026-10-28T14:04:57.301Z",
+  "last_updated": "2026-10-28T14:05:36.458Z",
   "best_attempt": {
-    "attempt_number": 1,
+    "attempt_number": 2,
     "wpm": 0,
     "accuracy_percent": 100,
-    "score": 40919,
+    "score": 41132,
     "stars": 129,
-    "time_spent_seconds": 3841,
-    "time_spent_formatted": "1 hr 4 mins 1 sec",
-    "completed_at": "2026-10-28T14:04:57.301Z"
+    "time_spent_seconds": 3854,
+    "time_spent_formatted": "1 hr 4 mins 14 secs",
+    "completed_at": "2026-10-28T14:05:36.458Z"
   },
   "latest_attempt": {
-    "attempt_number": 1,
+    "attempt_number": 2,
     "wpm": 0,
     "accuracy_percent": 100,
-    "score": 40919,
+    "score": 41132,
     "stars": 129,
-    "time_spent_seconds": 3841,
-    "time_spent_formatted": "1 hr 4 mins 1 sec",
-    "completed_at": "2026-10-28T14:04:57.301Z"
+    "time_spent_seconds": 3854,
+    "time_spent_formatted": "1 hr 4 mins 14 secs",
+    "completed_at": "2026-10-28T14:05:36.458Z"
   },
   "attempts_history": [
     {
-      "attempt_number": 1,
-      "wpm": 0,
       "accuracy_percent": 100,
+      "attempt_number": 1,
+      "completed_at": "2026-10-28T14:04:57.301Z",
       "score": 40919,
       "stars": 129,
-      "time_spent_seconds": 3841,
       "time_spent_formatted": "1 hr 4 mins 1 sec",
-      "completed_at": "2026-10-28T14:04:57.301Z"
+      "time_spent_seconds": 3841,
+      "wpm": 0
+    },
+    {
+      "attempt_number": 2,
+      "wpm": 0,
+      "accuracy_percent": 100,
+      "score": 41132,
+      "stars": 129,
+      "time_spent_seconds": 3854,
+      "time_spent_formatted": "1 hr 4 mins 14 secs",
+      "completed_at": "2026-10-28T14:05:36.458Z"
     }
   ],
   "raw_metadata": {}
