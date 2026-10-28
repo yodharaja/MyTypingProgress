@@ -1,7 +1,7 @@
 # ⌨️ TypingClub / EdClub Progress Vault
 
-[![Total Practice Time](https://img.shields.io/badge/Total_Practice_Time-1%20hr%2023%20mins%2029%20secs-E11D48?style=for-the-badge&logo=clockify&logoColor=white)](https://www.edclub.com/)
-[![Attempted Levels](https://img.shields.io/badge/Attempted_Levels-85_%2F_684-D97706?style=for-the-badge&logo=target&logoColor=white)](https://www.edclub.com/)
+[![Total Practice Time](https://img.shields.io/badge/Total_Practice_Time-2%20hrs%2034%20mins%207%20secs-E11D48?style=for-the-badge&logo=clockify&logoColor=white)](https://www.edclub.com/)
+[![Attempted Levels](https://img.shields.io/badge/Attempted_Levels-86_%2F_684-D97706?style=for-the-badge&logo=target&logoColor=white)](https://www.edclub.com/)
 [![Average Speed](https://img.shields.io/badge/Avg_Speed-61.5_WPM-059669?style=for-the-badge&logo=speedtest&logoColor=white)](https://www.edclub.com/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-96.6%25-0284C7?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.edclub.com/)
 [![Total Stars](https://img.shields.io/badge/Stars-326_%E2%98%85-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white)](https://www.edclub.com/)
@@ -17,19 +17,19 @@
 | :--- | :--- |
 | **Student** | Alex Dev |
 | **Active Course** | **Typing Jungle (Course 181)** (`Course ID: 181`) |
-| **Total Practice Time** | **1 hr 23 mins 29 secs** (5009s cumulative) |
-| **Attempted / Completed** | **85 / 684 Levels** (12%) |
+| **Total Practice Time** | **2 hrs 34 mins 7 secs** (9247s cumulative) |
+| **Attempted / Completed** | **86 / 684 Levels** (13%) |
 | **Average Speed** | **61.5 WPM** (Peak: **76 WPM**) |
 | **Average Accuracy** | **96.6%** |
 | **Total Stars Earned** | **326 ★** |
-| **Total Sessions Attempted** | **188** |
-| **Last Synchronized** | Oct 28, 2026, 8:26 PM |
+| **Total Sessions Attempted** | **189** |
+| **Last Synchronized** | Oct 28, 2026, 8:36 PM |
 
 ---
 
 ## 📚 Enrolled Courses
 
-- **Typing Jungle (Course 181)** (ID: `181`) → [`course-181/`](./course-181/)
+- **Typing | Grade 12** (ID: `181`) → [`course-181/`](./course-181/)
 
 ---
 
@@ -122,6 +122,7 @@
 | **#83** | Typing Jungle - Level 83 | `★★★★☆` | **65 WPM** | 96% | 52 secs | 2 | [`lesson_83.json`](course-181/lessons/lesson_83.json) |
 | **#84** | Typing Jungle - Level 84 | `★★★★★` | **68 WPM** | 99% | 48 secs | 2 | [`lesson_84.json`](course-181/lessons/lesson_84.json) |
 | **#85** | Typing Jungle - Level 85 | `★★★☆☆` | **74 WPM** | 95% | 47 secs | 2 | [`lesson_85.json`](course-181/lessons/lesson_85.json) |
+| **#381654350** | Lesson 381654350 | `★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★` | **0 WPM** | 100% | 1 hr 10 mins 38 secs | 1 | [`lesson_381654350.json`](course-181/lessons/lesson_381654350.json) |
 
 ---
 
