@@ -1,0 +1,142 @@
+{
+  "course_id": 181,
+  "course_name": "Course 181",
+  "lesson_id": 381654350,
+  "lesson_number": 381654350,
+  "lesson_title": "Lesson 381654350",
+  "status": "completed",
+  "stars": 129,
+  "accuracy_percent": 100,
+  "wpm": 0,
+  "score": 41170,
+  "time_spent_seconds": 4371,
+  "time_spent_formatted": "1 hr 12 mins 51 secs",
+  "total_time_spent_seconds": 42959,
+  "total_time_spent_formatted": "11 hrs 55 mins 59 secs",
+  "attempts": 10,
+  "perfect_score": false,
+  "last_updated": "2026-10-28T15:10:31.121Z",
+  "best_attempt": {
+    "accuracy_percent": 100,
+    "attempt_number": 1,
+    "completed_at": "2026-10-28T15:06:37.342Z",
+    "score": 41170,
+    "stars": 129,
+    "time_spent_formatted": "1 hr 10 mins 38 secs",
+    "time_spent_seconds": 4238,
+    "wpm": 0
+  },
+  "latest_attempt": {
+    "attempt_number": 10,
+    "wpm": 0,
+    "accuracy_percent": 100,
+    "score": 41170,
+    "stars": 129,
+    "time_spent_seconds": 4371,
+    "time_spent_formatted": "1 hr 12 mins 51 secs",
+    "completed_at": "2026-10-28T15:10:31.121Z"
+  },
+  "attempts_history": [
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 1,
+      "completed_at": "2026-10-28T15:06:37.342Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 10 mins 38 secs",
+      "time_spent_seconds": 4238,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 2,
+      "completed_at": "2026-10-28T15:07:00.916Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 10 mins 47 secs",
+      "time_spent_seconds": 4247,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 3,
+      "completed_at": "2026-10-28T15:07:12.595Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 10 mins 58 secs",
+      "time_spent_seconds": 4258,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 4,
+      "completed_at": "2026-10-28T15:07:26.977Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 11 mins 10 secs",
+      "time_spent_seconds": 4270,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 5,
+      "completed_at": "2026-10-28T15:07:45.191Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 11 mins 23 secs",
+      "time_spent_seconds": 4283,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 6,
+      "completed_at": "2026-10-28T15:08:03.325Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 11 mins 36 secs",
+      "time_spent_seconds": 4296,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 7,
+      "completed_at": "2026-10-28T15:09:02.816Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 11 mins 51 secs",
+      "time_spent_seconds": 4311,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 8,
+      "completed_at": "2026-10-28T15:09:31.576Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 12 mins 14 secs",
+      "time_spent_seconds": 4334,
+      "wpm": 0
+    },
+    {
+      "accuracy_percent": 100,
+      "attempt_number": 9,
+      "completed_at": "2026-10-28T15:09:53.088Z",
+      "score": 41170,
+      "stars": 129,
+      "time_spent_formatted": "1 hr 12 mins 31 secs",
+      "time_spent_seconds": 4351,
+      "wpm": 0
+    },
+    {
+      "attempt_number": 10,
+      "wpm": 0,
+      "accuracy_percent": 100,
+      "score": 41170,
+      "stars": 129,
+      "time_spent_seconds": 4371,
+      "time_spent_formatted": "1 hr 12 mins 51 secs",
+      "completed_at": "2026-10-28T15:10:31.121Z"
+    }
+  ],
+  "raw_metadata": {}
+}
