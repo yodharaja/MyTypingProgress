@@ -5,52 +5,62 @@
   "lesson_number": 1,
   "lesson_title": "Home Row - f, j",
   "status": "completed",
-  "stars": 4,
+  "stars": 5,
   "accuracy_percent": 99,
   "wpm": 53,
   "score": 1530,
-  "time_spent_seconds": 59.4,
-  "time_spent_formatted": "59 secs",
-  "total_time_spent_seconds": 59.4,
-  "total_time_spent_formatted": "59 secs",
-  "attempts": 1,
-  "perfect_score": false,
-  "last_updated": "2026-10-14T13:46:13.191Z",
+  "time_spent_seconds": 45,
+  "time_spent_formatted": "45 secs",
+  "total_time_spent_seconds": 104.4,
+  "total_time_spent_formatted": "1 min 44 secs",
+  "attempts": 2,
+  "perfect_score": true,
+  "last_updated": "2026-10-28T14:04:46.505Z",
   "best_attempt": {
-    "attempt_number": 1,
-    "wpm": 53,
     "accuracy_percent": 99,
+    "attempt_number": 1,
+    "completed_at": "2026-10-14T13:46:13.191Z",
     "score": 1530,
     "stars": 4,
-    "time_spent_seconds": 59.4,
     "time_spent_formatted": "59 secs",
-    "completed_at": "2026-10-14T13:46:13.191Z"
+    "time_spent_seconds": 59.4,
+    "wpm": 53
   },
   "latest_attempt": {
-    "attempt_number": 1,
-    "wpm": 53,
-    "accuracy_percent": 99,
-    "score": 1530,
-    "stars": 4,
-    "time_spent_seconds": 59.4,
-    "time_spent_formatted": "59 secs",
-    "completed_at": "2026-10-14T13:46:13.191Z"
+    "attempt_number": 2,
+    "wpm": 0,
+    "accuracy_percent": 100,
+    "score": 1000,
+    "stars": 5,
+    "time_spent_seconds": 45,
+    "time_spent_formatted": "45 secs",
+    "completed_at": "2026-10-28T14:04:46.505Z"
   },
   "attempts_history": [
     {
-      "attempt_number": 1,
-      "wpm": 53,
       "accuracy_percent": 99,
+      "attempt_number": 1,
+      "completed_at": "2026-10-14T13:46:13.191Z",
       "score": 1530,
       "stars": 4,
-      "time_spent_seconds": 59.4,
       "time_spent_formatted": "59 secs",
-      "completed_at": "2026-10-14T13:46:13.191Z"
+      "time_spent_seconds": 59.4,
+      "wpm": 53
+    },
+    {
+      "attempt_number": 2,
+      "wpm": 0,
+      "accuracy_percent": 100,
+      "score": 1000,
+      "stars": 5,
+      "time_spent_seconds": 45,
+      "time_spent_formatted": "45 secs",
+      "completed_at": "2026-10-28T14:04:46.505Z"
     }
   ],
   "raw_metadata": {
-    "is_test": false,
     "is_game": false,
+    "is_test": false,
     "keyboard": "en,us"
   }
 }
