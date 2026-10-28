@@ -1,0 +1,45 @@
+{
+  "course_id": 181,
+  "course_name": "Typing Jungle (Course 181)",
+  "lesson_id": 468,
+  "lesson_number": 468,
+  "lesson_title": "Typing Jungle - Level 468",
+  "status": "uncompleted",
+  "stars": 0,
+  "accuracy_percent": 0,
+  "wpm": 0,
+  "score": 0,
+  "time_spent_seconds": 0,
+  "time_spent_formatted": "0 secs",
+  "total_time_spent_seconds": 0,
+  "total_time_spent_formatted": "0 secs",
+  "attempts": 0,
+  "perfect_score": false,
+  "last_updated": "2026-10-28T13:46:13.201Z",
+  "best_attempt": {
+    "attempt_number": 1,
+    "wpm": 0,
+    "accuracy_percent": 0,
+    "score": 0,
+    "stars": 0,
+    "time_spent_seconds": 0,
+    "time_spent_formatted": "0 secs",
+    "completed_at": "2026-10-28T13:46:13.201Z"
+  },
+  "latest_attempt": {
+    "attempt_number": 1,
+    "wpm": 0,
+    "accuracy_percent": 0,
+    "score": 0,
+    "stars": 0,
+    "time_spent_seconds": 0,
+    "time_spent_formatted": "0 secs",
+    "completed_at": "2026-10-28T13:46:13.201Z"
+  },
+  "attempts_history": [],
+  "raw_metadata": {
+    "is_test": false,
+    "is_game": false,
+    "keyboard": "en,us"
+  }
+}

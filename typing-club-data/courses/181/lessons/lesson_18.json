@@ -1,0 +1,56 @@
+{
+  "course_id": 181,
+  "course_name": "Typing Jungle (Course 181)",
+  "lesson_id": 18,
+  "lesson_number": 18,
+  "lesson_title": "z & / Keys",
+  "status": "completed",
+  "stars": 4,
+  "accuracy_percent": 96,
+  "wpm": 53,
+  "score": 1530,
+  "time_spent_seconds": 74.4,
+  "time_spent_formatted": "1 min 14 secs",
+  "total_time_spent_seconds": 74.4,
+  "total_time_spent_formatted": "1 min 14 secs",
+  "attempts": 2,
+  "perfect_score": false,
+  "last_updated": "2026-10-17T09:46:13.193Z",
+  "best_attempt": {
+    "attempt_number": 1,
+    "wpm": 53,
+    "accuracy_percent": 96,
+    "score": 1530,
+    "stars": 4,
+    "time_spent_seconds": 74.4,
+    "time_spent_formatted": "1 min 14 secs",
+    "completed_at": "2026-10-17T09:46:13.193Z"
+  },
+  "latest_attempt": {
+    "attempt_number": 1,
+    "wpm": 53,
+    "accuracy_percent": 96,
+    "score": 1530,
+    "stars": 4,
+    "time_spent_seconds": 74.4,
+    "time_spent_formatted": "1 min 14 secs",
+    "completed_at": "2026-10-17T09:46:13.193Z"
+  },
+  "attempts_history": [
+    {
+      "attempt_number": 1,
+      "wpm": 53,
+      "accuracy_percent": 96,
+      "score": 1530,
+      "stars": 4,
+      "time_spent_seconds": 74.4,
+      "time_spent_formatted": "1 min 14 secs",
+      "completed_at": "2026-10-17T09:46:13.193Z"
+    }
+  ],
+  "raw_metadata": {
+    "is_test": false,
+    "is_game": false,
+    "keyboard": "en,us"
+  }
+}

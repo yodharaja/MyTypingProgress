@@ -1,0 +1,56 @@
+{
+  "course_id": 181,
+  "course_name": "Typing Jungle (Course 181)",
+  "lesson_id": 19,
+  "lesson_number": 19,
+  "lesson_title": "Common Words",
+  "status": "completed",
+  "stars": 3,
+  "accuracy_percent": 95,
+  "wpm": 61,
+  "score": 1360,
+  "time_spent_seconds": 64.4,
+  "time_spent_formatted": "1 min 4 secs",
+  "total_time_spent_seconds": 64.4,
+  "total_time_spent_formatted": "1 min 4 secs",
+  "attempts": 3,
+  "perfect_score": false,
+  "last_updated": "2026-10-17T13:46:13.193Z",
+  "best_attempt": {
+    "attempt_number": 1,
+    "wpm": 61,
+    "accuracy_percent": 95,
+    "score": 1360,
+    "stars": 3,
+    "time_spent_seconds": 64.4,
+    "time_spent_formatted": "1 min 4 secs",
+    "completed_at": "2026-10-17T13:46:13.193Z"
+  },
+  "latest_attempt": {
+    "attempt_number": 1,
+    "wpm": 61,
+    "accuracy_percent": 95,
+    "score": 1360,
+    "stars": 3,
+    "time_spent_seconds": 64.4,
+    "time_spent_formatted": "1 min 4 secs",
+    "completed_at": "2026-10-17T13:46:13.193Z"
+  },
+  "attempts_history": [
+    {
+      "attempt_number": 1,
+      "wpm": 61,
+      "accuracy_percent": 95,
+      "score": 1360,
+      "stars": 3,
+      "time_spent_seconds": 64.4,
+      "time_spent_formatted": "1 min 4 secs",
+      "completed_at": "2026-10-17T13:46:13.193Z"
+    }
+  ],
+  "raw_metadata": {
+    "is_test": false,
+    "is_game": false,
+    "keyboard": "en,us"
+  }
+}
