@@ -1,0 +1,52 @@
+{
+  "course_id": 181,
+  "course_name": "Course 181",
+  "lesson_id": 381654350,
+  "lesson_number": 381654350,
+  "lesson_title": "Lesson 381654350",
+  "status": "completed",
+  "stars": 129,
+  "accuracy_percent": 100,
+  "wpm": 0,
+  "score": 41170,
+  "time_spent_seconds": 4238,
+  "time_spent_formatted": "1 hr 10 mins 38 secs",
+  "total_time_spent_seconds": 4238,
+  "total_time_spent_formatted": "1 hr 10 mins 38 secs",
+  "attempts": 1,
+  "perfect_score": false,
+  "last_updated": "2026-10-28T15:06:37.342Z",
+  "best_attempt": {
+    "attempt_number": 1,
+    "wpm": 0,
+    "accuracy_percent": 100,
+    "score": 41170,
+    "stars": 129,
+    "time_spent_seconds": 4238,
+    "time_spent_formatted": "1 hr 10 mins 38 secs",
+    "completed_at": "2026-10-28T15:06:37.342Z"
+  },
+  "latest_attempt": {
+    "attempt_number": 1,
+    "wpm": 0,
+    "accuracy_percent": 100,
+    "score": 41170,
+    "stars": 129,
+    "time_spent_seconds": 4238,
+    "time_spent_formatted": "1 hr 10 mins 38 secs",
+    "completed_at": "2026-10-28T15:06:37.342Z"
+  },
+  "attempts_history": [
+    {
+      "attempt_number": 1,
+      "wpm": 0,
+      "accuracy_percent": 100,
+      "score": 41170,
+      "stars": 129,
+      "time_spent_seconds": 4238,
+      "time_spent_formatted": "1 hr 10 mins 38 secs",
+      "completed_at": "2026-10-28T15:06:37.342Z"
+    }
+  ],
+  "raw_metadata": {}
+}
